@@ -1,0 +1,67 @@
+<style> 
+    .time{
+    color: purple;
+    font-weight: bold;
+    }
+    
+    .Download{
+    color:black;
+    }
+    Footer{
+        text-align: center;
+        color: rgb(31, 131, 212);
+        font-size: 105%;
+        border-color: blueviolet;
+        border-style: dotted;
+    }
+    .iframe{ width: 30%;
+        height: 70%;
+    }
+    
+    .Home{ 
+    
+    
+    }
+    
+    .Profile{
+    
+    }
+    
+    .Search{
+    
+    }
+    
+    .Header{
+    
+    }
+    
+    
+    </style>
+    
+    
+    <html lang="en-us">
+    
+    <body>
+    <h1>
+        This is how you get to infinite campus
+    </h1>
+       
+    
+    <p2 class="Download"> 
+      <h3>  Step 1: click on the button below
+    <br4></br4>
+      </h3>
+  <h4> 
+    <div>   <button> <a  href="https://campus.rdale.org/campus/portal/students/robbinsdale.jsp">click here</a> </button>
+    <div> 
+      
+    </div>
+  </h4>
+  <br3></br3>
+      
+    
+        
+    </body>
+    
+    
+    </html>
